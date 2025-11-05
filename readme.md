@@ -1,2 +1,2 @@
 # Esercitazione flukeout
-![esercitazione-flukeout](./img/screenshot-flukeout.png)
+![esercitazione-flukeout](./img/screenshot-flukeout.jpg)
